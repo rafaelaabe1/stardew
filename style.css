@@ -1,0 +1,25 @@
+body{
+    background-image: url(img/Stfd.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: #0E2551;
+    padding: 15px 20px; 
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu{
+}
+
+.lp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
